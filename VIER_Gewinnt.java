@@ -15,9 +15,9 @@ public class VIER_Gewinnt {
         System.out
                 .println("Hilfestellung"
                         + "\n"
-                        + "Vier Gewinnt - Spielbeschreibung und Spielregeln"
+                        + "Vier Gewinnt - Spielbeschreibung & Spielregeln"
                         + "\n"
-                        + "Spielbeschreibung und Reglen:"
+                        + "Spielbeschreibung und Regeln:"
                         + "\n"
                         + "Das Spielbrett besteht aus sieben senkrechten Spalten  und sechs waagerechten Reihen. "
                         + "\n"
