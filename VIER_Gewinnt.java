@@ -13,7 +13,7 @@ public class VIER_Gewinnt {
     public static void hilfestellung() {
 
         System.out
-                .println("Hilfestellung"
+                .println("Hilfe"
                         + "\n"
                         + "Vier Gewinnt - Spielbeschreibung und Spielregeln"
                         + "\n"
