@@ -319,4 +319,4 @@ public class VIER_Gewinnt {
         }
     }
 }
-// Ende des Programmes4
+// Ende des Programmes
